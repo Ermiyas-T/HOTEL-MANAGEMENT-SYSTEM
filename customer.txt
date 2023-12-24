@@ -1,0 +1,18 @@
+..............................
+room_number:1
+Customer Name :hgfzfds
+Address :gubre
+Phone Number :0998656541
+Stay's from :1
+Stay's to :3
+
+..............................
+..............................
+room_number:1
+Customer Name :fdfghjkg
+Address :rwtqfyha
+Phone Number :0695664632
+Stay's from :12/1/02
+Stay's to :13/1/02
+
+..............................

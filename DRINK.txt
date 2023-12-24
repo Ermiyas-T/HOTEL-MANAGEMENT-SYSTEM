@@ -1,0 +1,8 @@
+1.MIRINDA------------30 BIRR
+2.SOFI---------------40 BIRR
+3.SPIRIT-------------30 BIRR
+4.COCACOLA-----------30 BIRR
+5.NEGUS--------------40 BIRR
+6.FANTA--------------30 BIRR
+7.SINK---------------40 BIRR
+8.fhsdd--------------20 BIRR
